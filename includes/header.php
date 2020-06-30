@@ -196,7 +196,7 @@ $rsnumproceso=odbc_exec($con,$sqlnumproceso);
               <div class="dropdown-divider"></div>
               <a id="mnproduccion" class="dropdown-item"  href="../Form/gestion_produccion.php"><img src="../icon/produc_1.png" style="width: 30px; height: 30px;"> Gestión Producción</a>
               <a id="mnlogistica" class="dropdown-item"  href="../Form/logistica_inventarios.php"><img src="../icon/logistica.png" style="width: 30px; height: 30px;"> Inventarios y Logistica</a>              
-              <a id="mndistribuir" class="dropdown-item"  href="#"><img src="../icon/distribuir.png" style="width: 30px; height: 30px;"> Distribución</a>              
+              <a id="mndistribuir" class="dropdown-item"  href="distribucion.php"><img src="../icon/distribuir.png" style="width: 30px; height: 30px;"> Distribución</a>              
               <div class="dropdown-divider"></div>
             </div>
         </li>
